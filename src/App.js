@@ -1,7 +1,6 @@
 import React, { Component } from 'react';
 import logo from './dinologo.png';
 import './App.css';
-import Jobslist from './jobslist.js';
 import { Header } from './Header.js'
 import { Section } from './sectionListings.js'
 import { Form } from './Form.js'
